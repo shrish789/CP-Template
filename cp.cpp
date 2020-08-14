@@ -37,8 +37,8 @@ const ld PI = acosl(-1.0);
 
 
 void solve(){
-	//Your bitchin' code begins here
-	 
+	//A Bitchin' code begins here
+
 }
 
 int main(){
